@@ -14,6 +14,7 @@ namespace dotnetcorekbc2
     {
         public static void Main(string[] args)
         {
+            //soem comments
             CreateWebHostBuilder(args).Build().Run();
         }
 
